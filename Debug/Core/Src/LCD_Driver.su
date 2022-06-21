@@ -1,0 +1,12 @@
+LCD_Driver.c:15:6:LCD_DATA	16	static
+LCD_Driver.c:51:6:LCD_CMD	16	static
+LCD_Driver.c:67:6:writeBit	16	static
+LCD_Driver.c:74:6:send_Message	8	static
+LCD_Driver.c:82:6:send_Command	16	static
+LCD_Driver.c:92:6:lcd_Init	8	static
+LCD_Driver.c:133:6:LCD_Write_Char	24	static
+LCD_Driver.c:153:6:LCD_Write_Command	24	static
+LCD_Driver.c:174:6:LCD_Write_String	24	static
+LCD_Driver.c:181:6:clearDisplay	8	static
+LCD_Driver.c:186:6:scrollRight	4	static
+LCD_Driver.c:191:6:LCD_Set_Cursor	24	static
